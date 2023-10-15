@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Eligibility Checker Test Suite]">
+  <test name="Eligibility Checker Test">
+    <classes>
+      <class name="com.eligibilityChecker.testRunner.TestRunner"/>
+    </classes>
+  </test> <!-- Eligibility Checker Test -->
+  <test name="Eligibility Checker Test(failed)">
+    <classes>
+      <class name="com.eligibilityChecker.testRunner.TestRunner">
+        <methods>
+          <include name="testDownClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="setUpClass"/>
+          <include name="BrowserLaunch"/>
+        </methods>
+      </class> <!-- com.eligibilityChecker.testRunner.TestRunner -->
+    </classes>
+  </test> <!-- Eligibility Checker Test(failed) -->
+</suite> <!-- Failed suite [Eligibility Checker Test Suite] -->

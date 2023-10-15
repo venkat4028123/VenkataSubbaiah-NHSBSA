@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Opened URL : https://services.nhsbsa.nhs.uk/check-for-help-paying-nhs-costs/start]]>
+    </line>
+    <line>
+      <![CDATA[Check what help you could get to pay for NHS cost : Header is Displaying]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on StartNow Button]]>
+    </line>
+    <line>
+      <![CDATA[Selected Wales for Which country do you live in? Question]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Is your GP practice in Scotland or Wales? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Which country is your dental practice in? :: We selected : WALES]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for What is your date of birth? :: We selected : 15/04/1997]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you live with a partner? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you claim any benefits or tax credits? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Are you pregnant or have you given birth in the last 12 months? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you have an injury or illness caused by serving in the armed forces? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you have diabetes? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you have glaucoma? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you live permanently in a care home? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you have more than £16,000 in savings, investments or property? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Done ********** You get help with NHS costs ************]]>
+    </line>
+    <line>
+      <![CDATA[You get free following items : ]]>
+    </line>
+    <line>
+      <![CDATA[NHS prescriptions
+If your prescription is dispensed in Wales or you have an Entitlement Card **********]]>
+    </line>
+    <line>
+      <![CDATA[*********************************]]>
+    </line>
+    <line>
+      <![CDATA[Opened URL : https://services.nhsbsa.nhs.uk/check-for-help-paying-nhs-costs/start]]>
+    </line>
+    <line>
+      <![CDATA[Check what help you could get to pay for NHS cost : Header is Displaying]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on StartNow Button]]>
+    </line>
+    <line>
+      <![CDATA[Selected Wales for Which country do you live in? Question]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Is your GP practice in Scotland or Wales? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Which country is your dental practice in? :: We selected : WALES]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for What is your date of birth? :: We selected : 15/04/1992]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you live with a partner? :: We selected : No]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you claim any benefits or tax credits? :: We selected : Yes]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Do you get paid Universal Credit? :: We selected : YES_I_RECEIVED_UNIVERSAL_CREDIT]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for As part of your Universal Credit, do you have any of these? :: We selected : Yes]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[for Was your take-home pay for your last Universal Credit period £935 or less? :: We selected : Yes]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Next Button]]>
+    </line>
+    <line>
+      <![CDATA[Done ********** You get help with NHS costs ************]]>
+    </line>
+    <line>
+      <![CDATA[You get free following items : ]]>
+    </line>
+    <line>
+      <![CDATA[NHS prescriptions **********]]>
+    </line>
+    <line>
+      <![CDATA[NHS dental check-ups and treatment **********]]>
+    </line>
+    <line>
+      <![CDATA[sight tests **********]]>
+    </line>
+    <line>
+      <![CDATA[NHS wigs and fabric supports **********]]>
+    </line>
+    <line>
+      <![CDATA[*********************************]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="274701" started-at="2023-10-15T19:13:28Z" finished-at="2023-10-15T19:18:02Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="TestRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.eligibilityChecker.testRunner.TestRunner@79b06cab]" name="feature" class="com.eligibilityChecker.testRunner.TestRunner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="274701" started-at="2023-10-15T19:13:28Z" finished-at="2023-10-15T19:18:02Z">
+      <class name="com.eligibilityChecker.testRunner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.eligibilityChecker.testRunner.TestRunner@79b06cab]" name="setUpClass" is-config="true" duration-ms="321" started-at="2023-10-16T00:43:28Z" finished-at="2023-10-16T00:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="BrowserLaunch()[pri:0, instance:com.eligibilityChecker.testRunner.TestRunner@79b06cab]" name="BrowserLaunch" is-config="true" duration-ms="2256" started-at="2023-10-16T00:43:28Z" finished-at="2023-10-16T00:43:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserLaunch -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.eligibilityChecker.testRunner.TestRunner@79b06cab]" name="feature" duration-ms="271442" started-at="2023-10-16T00:43:30Z" description="Runs cucmber Features" data-provider="features" finished-at="2023-10-16T00:48:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wales Test Ticket]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Opened URL : https://services.nhsbsa.nhs.uk/check-for-help-paying-nhs-costs/start]]>
+            </line>
+            <line>
+              <![CDATA[Check what help you could get to pay for NHS cost : Header is Displaying]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on StartNow Button]]>
+            </line>
+            <line>
+              <![CDATA[Selected Wales for Which country do you live in? Question]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Is your GP practice in Scotland or Wales? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Which country is your dental practice in? :: We selected : WALES]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for What is your date of birth? :: We selected : 15/04/1997]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you live with a partner? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you claim any benefits or tax credits? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Are you pregnant or have you given birth in the last 12 months? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you have an injury or illness caused by serving in the armed forces? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you have diabetes? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you have glaucoma? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you live permanently in a care home? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you have more than £16,000 in savings, investments or property? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[Done ********** You get help with NHS costs ************]]>
+            </line>
+            <line>
+              <![CDATA[You get free following items : ]]>
+            </line>
+            <line>
+              <![CDATA[NHS prescriptions
+If your prescription is dispensed in Wales or you have an Entitlement Card **********]]>
+            </line>
+            <line>
+              <![CDATA[*********************************]]>
+            </line>
+            <line>
+              <![CDATA[Opened URL : https://services.nhsbsa.nhs.uk/check-for-help-paying-nhs-costs/start]]>
+            </line>
+            <line>
+              <![CDATA[Check what help you could get to pay for NHS cost : Header is Displaying]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on StartNow Button]]>
+            </line>
+            <line>
+              <![CDATA[Selected Wales for Which country do you live in? Question]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Is your GP practice in Scotland or Wales? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Which country is your dental practice in? :: We selected : WALES]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for What is your date of birth? :: We selected : 15/04/1992]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you live with a partner? :: We selected : No]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you claim any benefits or tax credits? :: We selected : Yes]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Do you get paid Universal Credit? :: We selected : YES_I_RECEIVED_UNIVERSAL_CREDIT]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for As part of your Universal Credit, do you have any of these? :: We selected : Yes]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[for Was your take-home pay for your last Universal Credit period £935 or less? :: We selected : Yes]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Next Button]]>
+            </line>
+            <line>
+              <![CDATA[Done ********** You get help with NHS costs ************]]>
+            </line>
+            <line>
+              <![CDATA[You get free following items : ]]>
+            </line>
+            <line>
+              <![CDATA[NHS prescriptions **********]]>
+            </line>
+            <line>
+              <![CDATA[NHS dental check-ups and treatment **********]]>
+            </line>
+            <line>
+              <![CDATA[sight tests **********]]>
+            </line>
+            <line>
+              <![CDATA[NHS wigs and fabric supports **********]]>
+            </line>
+            <line>
+              <![CDATA[*********************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="testDownClass()[pri:0, instance:com.eligibilityChecker.testRunner.TestRunner@79b06cab]" name="testDownClass" is-config="true" duration-ms="573" started-at="2023-10-16T00:48:02Z" finished-at="2023-10-16T00:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDownClass -->
+      </class> <!-- com.eligibilityChecker.testRunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
