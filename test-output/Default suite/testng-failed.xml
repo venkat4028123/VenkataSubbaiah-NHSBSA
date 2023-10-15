@@ -6,4 +6,15 @@
       <class name="com.eligibilityChecker.testRunner.TestRunner"/>
     </classes>
   </test> <!-- Default test -->
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="com.eligibilityChecker.testRunner.TestRunner">
+        <methods>
+          <include name="testDownClass"/>
+          <include name="feature"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.eligibilityChecker.testRunner.TestRunner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
